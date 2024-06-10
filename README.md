@@ -1,6 +1,5 @@
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
   </a>
 
   <h3 align="center">Project Portfolio - Data Science</h3>
@@ -29,19 +28,16 @@
 
 ## Quick start
 
-Some text
+Project Repository for Data Science List
 
-- Instruction 1
-- Instruction 2
-- Instruction 3
 
 ## Status
 
-Here goes all the budgets
+Here goes all the plots
 
 ## What's included
 
-Some text
+- Project for Car Specification Database 
 
 ```text
 folder1/
@@ -70,11 +66,11 @@ Editor preferences are available in the [editor config](https://reponame/blob/ma
 
 **Creator 1**
 
-- <https://github.com/usernamecreator1>
+- <https://github.com/delmontecillo>
 
 ## Thanks
 
-Some Text
+Engr. Joesmart Apan - Implementing techniques and practices for us to learn more about the introduction to Computational Thinking with Python
 
 ## Copyright and license
 
